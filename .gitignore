@@ -9,5 +9,4 @@ yarn.lock
 *.ntvs*
 *.njsproj
 *.sln
-*.min.js*
 .vscode/
